@@ -1,0 +1,11 @@
+{
+  "plugins": {
+    "angular1": {
+      
+    }
+  },
+  "libs": [
+    "browser",
+    "ecma5"
+  ]
+}
